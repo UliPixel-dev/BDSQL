@@ -30,9 +30,11 @@ No exista conexión entre clientes y comerciales.
 
 Crear relaciones mediante claves foráneas.
 
-Crear una tabla puente (Ej. cliente_comercial) que relacione ambas tablas...
+Crear una tabla puente (Ej. cliente_comercial) que relacione las tablas 'cliente' y 'comercial', como mínimo.
 
-Crear, quizás, alguna tabla más tipo 'productos', 'metodos_de_pago', 'productos_vendidos'.
+Otra relación más entre 'productos_vendidos' y 'clientes'.
+
+Crear alguna tabla más tipo 'catalogo_productos', 'metodos_de_pago', 'productos_vendidos'.
 
 En esta era moderna y digitalizada cambiar el campo email a NOT NULL y comprobar que mantenga un formato válido.
 

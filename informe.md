@@ -1,5 +1,5 @@
 
-# Informe de base de la base de datos Venta.
+# Informe de la base de datos Venta.
 
 ## Descripción general:
 La base de datos ventas contiene información relacionada con tres entidades principales: clientes, comerciales y auditoría de cambios en comisiones.

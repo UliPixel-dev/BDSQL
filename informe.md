@@ -33,3 +33,7 @@ Crear relaciones mediante claves foráneas.
 Crear una tabla puente (Ej. cliente_comercial) que relacione ambas tablas...
 
 Crear, quizás, alguna tabla más tipo 'productos', 'metodos_de_pago', 'productos_vendidos'.
+
+En esta era moderna y digitalizada cambiar el campo email a NOT NULL y comprobar que mantenga un formato válido.
+
+Tener cuidado con los datos. Hay valores de teléfono con longitudes inconsistentes (tlf. 9228596).
